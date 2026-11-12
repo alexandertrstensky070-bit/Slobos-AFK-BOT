@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": nenapadolmanazo-mniC.aternos.me:55878",
+    "port":55878,
     "version": "1.21.1"
   },
   "position": {
